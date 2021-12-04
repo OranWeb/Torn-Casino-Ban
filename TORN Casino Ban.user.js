@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TORN Casino Ban
+// @name         TORN Casino Ban ALL AREAS
 // @version      1.0
 // @description  Illegal script to ban yourself from the casino
 // @author       OranWeb
