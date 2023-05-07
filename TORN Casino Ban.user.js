@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TORN Casino Ban ALL AREAS
+// @name         TORN Casino Ban ALL AREAS plus donator house
 // @version      1.0
 // @description  Illegal script to ban yourself from the casino
 // @author       OranWeb
@@ -13,6 +13,7 @@
 // @match        https://www.torn.com/loader.php?sid=holdem*
 // @match        https://www.torn.com/page.php?sid=russianRoulette*
 // @match        https://www.torn.com/loader.php?sid=spinTheWheel*
+// @match        https://www.torn.com/donator.php*
 // @grant        none
 // ==/UserScript==
 
